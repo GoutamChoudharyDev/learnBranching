@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-// testin
-
+// testing
